@@ -5,7 +5,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-hello_world = "DfAxVwzZccekFR6LZJWSb2t46wUGwGKheh39v3cYv3yZ"
+hello_anchor = "DfAxVwzZccekFR6LZJWSb2t46wUGwGKheh39v3cYv3yZ"
 
 [registry]
 url = "https://api.apr.dev"
